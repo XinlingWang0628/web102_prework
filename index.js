@@ -101,7 +101,7 @@ gamesCard.textContent = numofgame
  * total number of contributions, amount donated, and number of games on the site.
  * Skills used: functions, filter
 */
-
+ 
 // show only games that do not yet have enough funding
 function filterUnfundedOnly() {
     deleteChildElements(gamesContainer);
